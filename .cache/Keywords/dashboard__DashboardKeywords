@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "ACAC869282636D9234C0EE424CBF9D8D",
+  "keywordClasses": [
+    {
+      "name": "dashboard.DashboardKeywords",
+      "keywordMethods": [
+        {
+          "name": "VerifyElementsInDashboard",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
